@@ -1,0 +1,14 @@
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/bin/Debug/net7.0/GerenciadorDeRubs
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/bin/Debug/net7.0/GerenciadorDeRubs.deps.json
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/bin/Debug/net7.0/GerenciadorDeRubs.runtimeconfig.json
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/bin/Debug/net7.0/GerenciadorDeRubs.dll
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/bin/Debug/net7.0/GerenciadorDeRubs.pdb
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.GeneratedMSBuildEditorConfig.editorconfig
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.AssemblyInfoInputs.cache
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.AssemblyInfo.cs
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.csproj.CoreCompileInputs.cache
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.dll
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/refint/GerenciadorDeRubs.dll
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.pdb
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/GerenciadorDeRubs.genruntimeconfig.cache
+/media/ewerson/127884E57884C8C5/Cursos/ADA/Modulo3/Aula/Programação Orientada a Objetos II (C#) - Pasta Geral/GerenciadorDeRubs/obj/Debug/net7.0/ref/GerenciadorDeRubs.dll
